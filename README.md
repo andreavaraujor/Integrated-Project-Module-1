@@ -1,5 +1,6 @@
 # 🏁 Integrated-Project-Sprint-6
 #
+## 📝 Descripción del proyecto
 Para esta parte del bootcamp puse a prueba todas las habilidades adquiridas durante la primera etapa del curso, que comprendieron: 
 - Codificación con Python 🐍
 - Preprocesamiento de datos 🧑‍💻
