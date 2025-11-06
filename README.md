@@ -12,23 +12,23 @@ El proyecto se centra en el análisis de ventas de una tienda de videojuegos onl
 ## 📕 Descripción de datos
 La tabla **games** contiene los siguientes datos:
 
-- Name (Nombre)
+- `Name`: Nombre del juego.
 
-- Platform (Plataforma)
+- `Platform`: Plataforma del juego.
 
-- Year_of_Release (Año de lanzamiento)
+- `Year_of_Release`: Año de lanzamiento del juego.
 
-- Genre (Género) 
+- `Genre`: Género del juego. 
 
-- NA_sales (ventas en Norteamérica en millones de dólares estadounidenses) 
+- `NA_sales`: ventas en Norteamérica en millones de dólares estadounidenses.
 
-- EU_sales (ventas en Europa en millones de dólares estadounidenses) 
+- `EU_sales`: ventas en Europa en millones de dólares estadounidenses.
 
-- JP_sales (ventas en Japón en millones de dólares estadounidenses) 
+- `JP_sales`: ventas en Japón en millones de dólares estadounidenses.
 
-- Other_sales (ventas en otros países en millones de dólares estadounidenses) 
+- `Other_sales`: ventas en otros países en millones de dólares estadounidenses.
 
-- Critic_Score (máximo de 100) 
+- `Critic_Score`: puntuación que va a tener un máximo de 100.
 
 - User_Score (máximo de 10) 
 
