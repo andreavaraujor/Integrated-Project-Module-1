@@ -30,6 +30,6 @@ La tabla **games** contiene los siguientes datos:
 
 - `Critic_Score`: puntuación que va a tener un máximo de 100.
 
-- User_Score (máximo de 10) 
+- `User_Score`: puntuación que va a tener un máximo de 10.
 
-- Rating (ESRB)
+- `Rating`: ESRB.
